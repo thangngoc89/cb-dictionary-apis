@@ -36,7 +36,7 @@
     return null;
   }
 
-  exports.createService = function(httpRequest, parseXml) {
+  exports.createService = function(httpRequest) {
     httpRequest = getHttpRequest(httpRequest);
 
     function DictionaryApi(createRequestOptions, fetchResult) {
