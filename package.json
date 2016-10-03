@@ -1,9 +1,24 @@
 {
   "name": "cb-dictionary-apis",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Dictionary APIs",
-  "author": {
-    "name": "ICodeMyOwnLife"
+  "author": "ICodeMyOwnLife",
+  "dependencies": {},
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "dependencies": {}
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ICodeMyOwnLife/cb-dictionary-apis.git"
+  },
+  "keywords": [
+    "Dictionary"
+  ],
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ICodeMyOwnLife/cb-dictionary-apis/issues"
+  },
+  "homepage": "https://github.com/ICodeMyOwnLife/cb-dictionary-apis#readme"
 }

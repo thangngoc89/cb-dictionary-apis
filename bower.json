@@ -1,0 +1,20 @@
+{
+  "name": "cb-dictionary-apis",
+  "description": "Dictionary APIs",
+  "main": "index.js",
+  "authors": [
+    "ICodeMyOwnLife"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "Dictionary"
+  ],
+  "homepage": "https://github.com/ICodeMyOwnLife/cb-dictionary-apis",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
