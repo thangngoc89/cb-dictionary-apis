@@ -1,0 +1,9 @@
+{
+  "name": "cb-dictionary-apis",
+  "version": "0.0.0",
+  "description": "Dictionary APIs",
+  "author": {
+    "name": "ICodeMyOwnLife"
+  },
+  "dependencies": {}
+}
